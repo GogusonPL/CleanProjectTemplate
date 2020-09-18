@@ -5,4 +5,15 @@
         <RootNamespace>ProjectName.Core</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Domains\Commands" />
+      <Folder Include="Domains\Events" />
+      <Folder Include="Domains\Querries" />
+      <Folder Include="Exceptions" />
+      <Folder Include="Handlers\CommandHandlers" />
+      <Folder Include="Handlers\EventHandlers" />
+      <Folder Include="Handlers\QuerryHandlers" />
+      <Folder Include="Interfaces" />
+    </ItemGroup>
+
 </Project>
