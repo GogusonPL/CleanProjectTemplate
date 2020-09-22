@@ -8,18 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5e6ad66-8bff-4a48-abbe-758192469a29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GogusonCleanProjectTemplate.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Application/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Application/ProjectName.Application.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Application/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Application/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Application/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Application/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Domain/ProjectName.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectName.Infrastructure/ProjectName.Infrastructure.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="f5e6ad66-8bff-4a48-abbe-758192469a29" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600444979828</updated>
-      <workItem from="1600445000229" duration="2116000" />
+      <workItem from="1600445000229" duration="2469000" />
     </task>
     <servers />
   </component>

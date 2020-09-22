@@ -5,13 +5,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ProjectName.Domain\ProjectName.Domain.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
       <Folder Include="Autofac.Modules" />
       <Folder Include="Data" />
       <Folder Include="Services" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ProjectName.Core\ProjectName.Core.csproj" />
     </ItemGroup>
 
 </Project>
